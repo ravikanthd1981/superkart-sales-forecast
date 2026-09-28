@@ -1,0 +1,4 @@
+# Frontend dependencies - the UI only needs pandas, requests and streamlit
+pandas==2.2.3
+requests==2.32.4
+streamlit==1.43.2
